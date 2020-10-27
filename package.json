@@ -1,0 +1,19 @@
+{
+  "name": "@iamshaash/stringlib",
+  "version": "1.0.1",
+  "description": "",
+  "main": "strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprajjwal/few21-stringLib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprajjwal/few21-stringLib/issues"
+  },
+  "homepage": "https://github.com/sprajjwal/few21-stringLib#readme"
+}
